@@ -1,0 +1,30 @@
+{
+  "name": "react-native-pushable",
+  "version": "1.0.0",
+  "description": "Use an amazing pushable component in your app. This is a better way yo express touchable components in a completely custom ui theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3fkon/react-native-pushable.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "push",
+    "touchable",
+    "button",
+    "pushable"
+  ],
+  "author": "Ashwin Prasad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3fkon/react-native-pushable/issues"
+  },
+  "homepage": "https://github.com/d3fkon/react-native-pushable#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
+}
