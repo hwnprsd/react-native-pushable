@@ -23,6 +23,10 @@
   "bugs": {
     "url": "https://github.com/d3fkon/react-native-pushable/issues"
   },
+  "peerDependencies": {
+    "react": ">= 16.0",
+    "react-native": ">= 0.54.0"
+  },
   "homepage": "https://github.com/d3fkon/react-native-pushable#readme",
   "dependencies": {
     "prop-types": "^15.6.1"
